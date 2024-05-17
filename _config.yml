@@ -76,55 +76,65 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Drip (Remote)
+        title: Drip
         link: drip.com
-         link_text: drip.com
-        sub_title: Engineering Manager
-        caption: September 2022 - February 2024
+        link_text: drip.com
+        sub_title: Engineering Manager (Remote)
+        caption: February 2022 - February 2024
         description: | # this will include new lines to allow paragraphs
-          Coming soon!
-
-      - layout: left
-        title: Drip (Remote)
-        link: drip.com
-         link_text: drip.com
-        sub_title: Senior Engineer
-        caption: February 2022 - September 2022
+          Drip was an excellent place to work and probably as close as I've come so far to my ideal job. I joined as a Senior Engineer on the Platform team responsible for infrastructure and core services. Later on I became the manager after ours moved up - no-one was keen and I don't like to say no. Sadly after the company's fortunes took a turn for the worse I was let go in a significant round of redundancies. Even so it was without doubt the most valuable experience of my career so far and I hope I get another similar oportunity. Most of my experience of AWS is from this role and I became more closely aquainted with a range of services: EC2, SQS, Cloudwatch, CodeDeploy, Lambda, Kinesis, ECS, RDS, S3, IAM, and DynamoDB, provisioned via Ansible and Terraform. We were responsible for application monitoring (Prometheus, Grafana, New Relic, Vivid Cortex), security, pen-testing (Horizon.ai), and database replication and failover (Postgres on EC2). I even found time to do a bit of feature development in the core Rails application!
 
       - layout: left
         title: Accenture
         link: accenture.com
-         link_text: accenture.com
+        link_text: accenture.com
         sub_title: Associate Manager (New York, NY)
         caption: April 2016 - August 2021
+        description: | # this will include new lines to allow paragraphs
+          Coming soon!
+
 
       - layout: left
-        title: Formicary Inc (New York, NY)
+        title: Formicary Inc
         link: https://web.archive.org/web/20150109175857/http://www.formicary.net/
-         link_text: formicary.net
-        sub_title: Senior Engineer
+        link_text: formicary.net
+        sub_title: Senior Engineer (New York, NY)
         caption: March 2011 - April 2016
+        description: |
+          Coming soon!
 
       - layout: left
-        title: Formicary Ltd (London, UK)
+        title: Formicary Ltd
         link: https://web.archive.org/web/20150109175857/http://www.formicary.net/
-         link_text: formicary.net
-        sub_title: Senior Engineer
+        link_text: formicary.net
+        sub_title: Senior Engineer  (London, UK)
         caption: September 2006 - February 2011
+        description: |
+          Coming soon!
 
       - layout: left
-        title: The National Physical Laboratory (Teddington, UK)
+        title: The National Physical Laboratory
         link: npl.co.uk
-         link_text: npl.co.uk
-        sub_title: Research Scientist
+        link_text: npl.co.uk
+        sub_title: Research Scientist (Teddington, UK)
         caption: September 2005 - August 2006
+        description: |
+          My first proper job after graduation from university. I actually applied to a technician's job but no soldering was pretty hopeless so they put me to work in the laboratory instead.
 
       - layout: left
-        title: Royal Mail (London, UK)
+        title: Royal Mail
         link: royalmail.com
-         link_text: royalmail.com
-        sub_title: Postman
+        link_text: royalmail.com
+        sub_title: Postman (London, UK)
         caption: June 2005 - August 2005
+        description: |
+          After returning from South East Asia where I had been staying with my now wife I did a bit of bar work and got a job with Royal Mail as I had worked for them before as a temp in the seaside retreat of Herne Bay. Being a postie in London was pretty neat though, even if I'm not an early bird by nature, as my route in SW11 had me delivering to Gillian Andserson, Robbie Williams, Sebastian Faulks, and Sienna Miller. Also probably the fittest I've ever been from marching about with a heavy sack every day (oo-er). 
+
+      - layout: left
+        title: Errata
+        caption: 1995 - 2004
+        description: |
+          I also did an assortment of part-time and temporary jobs while at school and university, the very first being a delivery boy for United Pharmacy in Canterbury, fond memories of that one. I worked retail in Next (so boring and I expect it showed), and pulled pints at Simple Simon's in Canterbury and the now demolished Falmouth Keogh Halls student union bar. The local recruitment agency provided various interesting assignemts such as assembling parking meters, spot welding filing cabinets, moving things about in warehouses, and chilselling hardened glue from inside a machine that made the slightly fuzzy insides of cars.
 
 #      - layout: left
 #        title: The Boring Company
