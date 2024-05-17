@@ -73,12 +73,59 @@ content:
 #          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
-    layout: text
-    content: |
-      I will probably fill this in at some point but not now. It's coming up to midnight and I'm trying to exercise good "sleep hygiene".
-    
-#    layout: list # Type of content section (list/text)
-#    content:
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Drip (Remote)
+        link: drip.com
+         link_text: drip.com
+        sub_title: Engineering Manager
+        caption: September 2022 - February 2024
+        description: | # this will include new lines to allow paragraphs
+          Coming soon!
+
+      - layout: left
+        title: Drip (Remote)
+        link: drip.com
+         link_text: drip.com
+        sub_title: Senior Engineer
+        caption: February 2022 - September 2022
+
+      - layout: left
+        title: Accenture
+        link: accenture.com
+         link_text: accenture.com
+        sub_title: Associate Manager (New York, NY)
+        caption: April 2016 - August 2021
+
+      - layout: left
+        title: Formicary Inc (New York, NY)
+        link: https://web.archive.org/web/20150109175857/http://www.formicary.net/
+         link_text: formicary.net
+        sub_title: Senior Engineer
+        caption: March 2011 - April 2016
+
+      - layout: left
+        title: Formicary Ltd (London, UK)
+        link: https://web.archive.org/web/20150109175857/http://www.formicary.net/
+         link_text: formicary.net
+        sub_title: Senior Engineer
+        caption: September 2006 - February 2011
+
+      - layout: left
+        title: The National Physical Laboratory (Teddington, UK)
+        link: npl.co.uk
+         link_text: npl.co.uk
+        sub_title: Research Scientist
+        caption: September 2005 - August 2006
+
+      - layout: left
+        title: Royal Mail (London, UK)
+        link: royalmail.com
+         link_text: royalmail.com
+        sub_title: Postman
+        caption: June 2005 - August 2005
+
 #      - layout: left
 #        title: The Boring Company
 #        link: boringcompany.com
