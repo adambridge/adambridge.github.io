@@ -1,1 +1,1 @@
-My resume, such as it is: https://adambridge.github.io/
+The story so far: https://adambridge.github.io/
