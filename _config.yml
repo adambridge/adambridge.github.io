@@ -91,7 +91,7 @@ content:
         sub_title: Associate Manager (New York, NY)
         caption: April 2016 - August 2021
         description: | # this will include new lines to allow paragraphs
-          Coming soon!
+          In 2016 our owner decided it was time to cash out and sold Formicary to Accenture. Happily this eventually resulted in my being able to get the green card I hold today. Notable projects I worked on in this period a collateral management implementation for Vanguard as tech lead, being an embedded SME with a new support team at BBVA (formerly Bancomer), and a massive big data project at Credit Suisse as a business analyst. With a few exceptions (some internal Java development left over from Formicary, some fun devops stuff with Ansible and Vagrant) my trajectory was less hands on technical and I eventually resigned (greencard obtained and exclusive service period worked) to force myself to find a role better aligned to my software developer ambitions.
 
 
       - layout: left
@@ -101,7 +101,7 @@ content:
         sub_title: Senior Engineer (New York, NY)
         caption: March 2011 - April 2016
         description: |
-          Coming soon!
+          In late 2010 I assented to a one way relocation to New York City where I am still sitting as I write this. Initially I was doing more application support at the New York branch of a now largely hollowed out WestLB "Bad Bank" and assocated service entities but eventually got a pretty neat development gig at Bank of America Merill Lynch post agile-transformation automating a security settlement process in Python and learning about clean code, test driven development, and specification by example and a smidge of Scala. Following that my next role was installing Formicary's bespoke application monitoring solution at Jefferies. Apart from that it was more application support type work for the most part.
 
       - layout: left
         title: Formicary Ltd
