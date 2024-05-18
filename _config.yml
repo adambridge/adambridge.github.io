@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Adam and I'm a engineering manager. Well, right now I'm a house husband, father, cat-dad, and skateboarding instructor but I am currenly seeking new a new role in the tech sector. Most recently I spent 2 years with the excellent folks at Drip, an email marketing startup, working on the Platform team mainly focused on infrastructure and core services. Before that I was in consulting and worked on a variety of interesting projects in the financial sector. I like figuring things out, writing code, and finding ways to be useful. I also used to be a postman, as we Brits call our mailmen, and walk around delivering Netflix DVDs by hand (I once had a parcel for Gillian Anderson although sadly she was not at home). I have experience working on web apps in Rails and Java and I've clocked up a fair bit of time nosing around in AWS. 
+  Hi, my name's Adam and I'm a engineering manager and aged aspiring developer. Well, right now I'm a house husband, father, cat-dad, and skateboarding instructor but I am currenly seeking new a new role in the tech sector. Most recently I spent 2 years with the excellent folks at Drip, an email marketing startup, working on the Platform team mainly focused on infrastructure and core services. Before that I was in consulting and worked on a variety of interesting projects in the financial sector. I like figuring things out, writing code, and finding ways to be useful. I am also a former postman (mailman) who by chanced upon a career in technology. I have experience working on web apps in Rails and Java and I've clocked up a fair bit of time nosing around in AWS. You can read about my exciting adventures so far below.
 
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -110,7 +110,7 @@ content:
         sub_title: Senior Engineer  (London, UK)
         caption: September 2006 - February 2011
         description: |
-          Joining Formicary was a pivotal moment in my working life, it was a small but rapidly growing software consultancy serving the fancy-pants financial scene in the City of London, quite a contrast to the slightly dilapidated government laboratory I had come from. I was hired on the basis that I knew some C++ (I had done one module in college) despite my resounding failure to demonstrate this in the interview I was able to talk about figuring out how to play mp3s in Linux.
+          Joining Formicary was a pivotal moment in my working life, it was a small but rapidly growing software consultancy that a college buddy was working for, serving the fancy-pants financial scene in the City of London, quite a contrast to the slightly dilapidated government laboratory I had come from. I was hired on the basis that I knew some C++ (I had done one module in college) despite my resounding failure to demonstrate this in the interview I was able to talk about figuring out how to play mp3s in Linux.
 
           I learned a lot here, starting with an appreciation of how much I didn't know. Through the generosity and patience of my excellent collegues I picked up some useful skills in application development and a passing familiarity with various financial instruments. Initially I worked mainly in C++ on Solaris but later picked up some Java too. I started off working on a data migration for Commerzbank in Frankfurt (weekly flights!) and laterly a mix of development and support at the somewhat infamous WestLB (ask an older German).
 
@@ -130,13 +130,15 @@ content:
         sub_title: Postman (London, UK)
         caption: June 2005 - August 2005
         description: |
-          After returning from South East Asia where I had been staying with my now wife I did a bit of bar work and got a job with Royal Mail as I had worked for them before as a temp in the seaside retreat of Herne Bay. Being a postie in London was pretty neat though, even if I'm not an early bird by nature, as my route in SW11 had me delivering to Gillian Andserson, Robbie Williams, Sebastian Faulks, and Sienna Miller. Also probably the fittest I've ever been from marching about with a heavy sack every day (oo-er). 
+          After returning from South East Asia where I had been staying with my now wife I did a bit of bar work and got a job with Royal Mail as I had worked for them before as a temp in the seaside retreat of Herne Bay. Being a postie in London was pretty neat though, even if I'm not an early bird by nature, as my route in SW11 had me delivering to Gillian Andserson, Robbie Williams, Sebastian Faulks, and then girlfriend of Jude Law the actress Sienna Miller. I once had a parcel for Gillian Anderson although sadly she was not at home.
 
       - layout: left
         title: Errata
         caption: 1995 - 2004
         description: |
-          An assortment of part-time and temporary jobs while at school and university, the very first being a delivery boy for United Pharmacy in Canterbury, fond memories of that one. I worked retail in Next (so boring and I expect it showed), and pulled pints at Simple Simon's in Canterbury and the now demolished Falmouth Keogh Halls student union bar. The local recruitment agency provided various interesting assignemts such as assembling parking meters, spot welding filing cabinets, moving things about in warehouses, and chilselling hardened glue from inside a machine that made the slightly fuzzy insides of cars. One summer I landed the lead role in a music video for a song that was tipped to be a smash hit primarily because of my 70s-esque haircut (technically more of a hair-grow than a hair-cut). Sadly it barely made any impact on the top 40 but you can still see it on [Youtube](https://www.youtube.com/watch?v=8gtND3Y69z4&pp=ygUVbWlzdHkgYmx1IG1pbGxpb25zb25z)!
+          An assortment of part-time and temporary jobs while at school and university, the very first being a delivery boy for United Pharmacy in Canterbury, fond memories of that one. I worked retail in Next (so boring and I expect it showed), and pulled pints at Simple Simon's in Canterbury and the now demolished Falmouth Keogh Halls student union bar. The local recruitment agency provided various interesting assignemts such as assembling parking meters, spot welding filing cabinets, moving things about in warehouses, and chilselling hardened glue from inside a machine that made the slightly fuzzy insides of cars and a first stint delivering the mail and DVDs for mail order DVD company Netflix!
+
+          One summer I landed the lead role in a music video for a song that was tipped to be a smash hit primarily because of my 70s-esque haircut (technically more of a hair-grow than a hair-cut). Sadly it barely made any impact on the top 40 but you can still see it on [Youtube](https://www.youtube.com/watch?v=8gtND3Y69z4&pp=ygUVbWlzdHkgYmx1IG1pbGxpb25zb25z)!
 
 #      - layout: left
 #        title: The Boring Company
