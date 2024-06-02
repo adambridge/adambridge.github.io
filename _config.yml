@@ -100,31 +100,31 @@ content:
         sub_title: Associate Manager (New York, NY)
         caption: April 2016 - August 2021
         description: | # this will include new lines to allow paragraphs
-          - FIS - Batch rearchitecture vendor selection
+          FIS - Batch rearchitecture vendor selection
             - Comparison of vendor solutions with reference legacy batch and desired outcomes
 
-          - Wellington - API QA
+          Wellington - API QA
             - Onshore lead for QA team of five offshore resources
             - Design and execution of performance tests in JMeter
             - Managed delivery of data reconciliation tool based on datacompy
             - Specified functional test suite in Karate
 
-          - DTCC - Distributed ledger Proof of Concept
+          DTCC - Distributed ledger Proof of Concept
             - Technical consultant for proposed second phase of distributed ledger proof of concept
 
-          - Credit Suisse – Analytics Platform Implementation
+          Credit Suisse – Analytics Platform Implementation
             - Business Analysis for legacy data migration to Palantir Foundry
             - Investigation and documentation of legacy workflows, schemas, data quality issues, and downstream requirements
             - Designed target data model schemas and processes
             - Supervised work of junior consultants
 
-          - BBVA Mexico – Application Support Offshoring
+          BBVA Mexico – Application Support Offshoring
             - Calypso SME brought in to stabilize implementation project
             - Led project to implement changes to custom Swing UI
             - Trained local team on platform and development ecosystem including JUnit, Gradle, Artifactory, Git, Jenkins
             - Defect analysis and resolution – workflows, settlements, reporting
 
-          - Vanguard – Collateral Management Cloud Implementation
+          Vanguard – Collateral Management Cloud Implementation
             - Technical Lead for cloud based deployment
             - Coordinated integration with client and third party interfaces
             - First point of contact between client and vendor for technical issues
@@ -139,7 +139,7 @@ content:
         sub_title: Senior Engineer (New York, NY)
         caption: March 2011 - April 2016
         description: |
-          - Jefferies - Calypso Application Support
+          Jefferies - Calypso Application Support
             - BAU support for Calypso (Java/Oracle) application
             - Analysis and resolution of user issues
             - Supported Bloomberg TOMS, ICELink and MarkitWire integrations
@@ -147,20 +147,20 @@ content:
             - Application deployment (Jenkins/Ant)
             - Deployment of Custom monitoring application (Java/Jetty/Cassandra)
 
-          - Bank of America Merill Lynch - Developer
+          Bank of America Merill Lynch - Developer
             - Automation of failed securities settlement process in Python
             - Integration with legacy DB2 database
             - Test Driven Development using cucumber for specification by example
             - Continuous integration via Jenkins
 
-          - Calypso Monitoring Software - Developer
+          Calypso Monitoring Software - Developer
             - Fullstack feature development for Java based application monitoring web-app
             - Plotting timeseries data with flot
             - Refactoring of CalMon's application model to support monitoring of Calypso Engines running within jBoss application server or in independent JVMs
             - GUI development with extjs
             - Implementation of jQuery plugin to extend graphing capability with Flot graphing library
 
-          - Portigon (WestLB) - Summit Application Support
+          Portigon (WestLB) - Summit Application Support
             - Analysis of risk data and shift and drift components of P&L for MRM
             - Comparison of Vega calculations for swaption desk
             - Analysis and rollout of swaption model change for MRM
@@ -178,7 +178,7 @@ content:
         sub_title: Senior Engineer  (London, UK)
         caption: September 2006 - February 2011
         description: |
-          - WestLB - Summit Application Support
+          WestLB - Summit Application Support
             - Developed a real-time feed of funding data in C++ using Summit Straight Through Processing
             - Maintenance of Java based market data interface to Thomson Reuters
             - Implemented changes to market data audit history archiving rules
@@ -186,7 +186,7 @@ content:
             - Accounting schema customisation
             - Custom report development
 
-          - Commerzbank - Front Arena to Summit Migration
+          Commerzbank - Front Arena to Summit Migration
             - Developed utilities for static data and bond migration in C++ using STK (Summit ToolKit)
             - Execution and analysis of present value and cashflow reconciliations
 
