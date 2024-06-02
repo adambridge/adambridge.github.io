@@ -48,7 +48,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Adam and I'm a engineering manager and aged aspiring developer. Well, right now I'm a house husband, father, cat-dad, and skateboarding instructor but I am currenly seeking new a new role in the tech sector. Most recently I spent 2 years with the excellent folks at Drip, an email marketing startup, working on the Platform team mainly focused on infrastructure and core services. Before that I was in consulting and worked on a variety of interesting projects in the financial sector. I like figuring things out, writing code, and finding ways to be useful. I am also a former postman (mailman) who by chanced upon a career in technology. I have experience working on web apps in Rails and Java and I've clocked up a fair bit of time nosing around in AWS. You can read about my exciting adventures so far below.
+  I'm an experienced backend software engineer and manager of small teams with 16 years industry experience in finance and ecommerce. I have worked in a range of roles developing, deploying and supporting mission critical software for leading financial firms and most recently an ecommerce startup. As an engineer, I like thinking from first principles to find practical, elegant solutions that can be implemented with a minimum of fuss. As a manager I lead by example and get my hands dirty. I aim to serve my teams, remove obstacles and give them appropriate responsibility and space to grow. I'm looking for a hands-on technical role that where I can share my enthusiasm for problem solving in an environment of similarly minded people.
+
 
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -82,7 +83,15 @@ content:
         sub_title: Engineering Manager (Remote)
         caption: February 2022 - February 2024
         description: | # this will include new lines to allow paragraphs
-          Drip is an email marketing and automation platform and probably as close as I've come so far to my ideal job. I joined as a Senior Engineer on the Platform team responsible for infrastructure and core services. Later on I became the manager after ours moved up - no-one was keen and I don't like to say no. Sadly after the company's fortunes took a turn for the worse I was let go in a significant round of redundancies. Even so it was without doubt the most valuable experience of my career so far and I hope I get another similar oportunity. Most of my experience of AWS is from this role and I became more closely aquainted with a range of services: EC2, SQS, Cloudwatch, CodeDeploy, Lambda, Kinesis, ECS, RDS, S3, IAM, and DynamoDB, provisioned via Ansible and Terraform. We were responsible for application monitoring (Prometheus, Grafana, New Relic, Vivid Cortex), security, pen-testing (Horizon.ai), and database replication and failover (Postgres on EC2). I even found time to do a bit of feature development in the core Rails application!
+          - Joined and later led platform team covering AWS infrastructure and core services
+          - Provisioning Infrastructure with Terraform and Ansible: EC2, SQS, Kinesis, ECS, RDS, IAM
+          - Delivered client data encryption project to meet integration partner API security requirements
+          - Developed software security update policy for 200+ repos
+          - Configuring logging, metrics, and alerts in Prometheus, Grafana, and Cloudwatch
+          - Front to back troubleshooting of escalated issues with New Relic, VividCortex
+          - Wrote and executed migration of 8TB of workflow data out of monolith database
+          - Feature development in Ruby on Rails
+
 
       - layout: left
         title: Accenture
@@ -91,7 +100,36 @@ content:
         sub_title: Associate Manager (New York, NY)
         caption: April 2016 - August 2021
         description: | # this will include new lines to allow paragraphs
-          In 2016 our owner decided it was time to cash out and sold Formicary to Accenture. Happily this eventually resulted in my being able to get the green card I hold today. Notable projects I worked on in this period a collateral management implementation for Vanguard as tech lead, being an embedded SME with a new support team at BBVA (formerly Bancomer), and a massive big data project at Credit Suisse as a business analyst. With a few exceptions (some internal Java development left over from Formicary, some fun devops stuff with Ansible and Vagrant) my trajectory was less hands on technical and I eventually resigned (greencard obtained and exclusive service period worked) to force myself to find a role better aligned to my software developer ambitions.
+          - FIS - Batch rearchitecture vendor selection
+            - Comparison of vendor solutions with reference legacy batch and desired outcomes
+
+          - Wellington - API QA
+            - Onshore lead for QA team of five offshore resources
+            - Design and execution of performance tests in JMeter
+            - Managed delivery of data reconciliation tool based on datacompy
+            - Specified functional test suite in Karate
+
+          - DTCC - Distributed ledger Proof of Concept
+            - Technical consultant for proposed second phase of distributed ledger proof of concept
+
+          - Credit Suisse – Analytics Platform Implementation
+            - Business Analysis for legacy data migration to Palantir Foundry
+            - Investigation and documentation of legacy workflows, schemas, data quality issues, and downstream requirements
+            - Designed target data model schemas and processes
+            - Supervised work of junior consultants
+
+          - BBVA Mexico – Application Support Offshoring
+            - Calypso SME brought in to stabilize implementation project
+            - Led project to implement changes to custom Swing UI
+            - Trained local team on platform and development ecosystem including JUnit, Gradle, Artifactory, Git, Jenkins
+            - Defect analysis and resolution – workflows, settlements, reporting
+
+          - Vanguard – Collateral Management Cloud Implementation
+            - Technical Lead for cloud based deployment
+            - Coordinated integration with client and third party interfaces
+            - First point of contact between client and vendor for technical issues
+            - Requirements gathering and project planning, coordination of client meetings
+
 
 
       - layout: left
@@ -101,7 +139,37 @@ content:
         sub_title: Senior Engineer (New York, NY)
         caption: March 2011 - April 2016
         description: |
-          In late 2010 I assented to a one way relocation to New York City where I am still sitting as I write this. Initially I was doing more application support at the New York branch of a now largely hollowed out WestLB "Bad Bank" and assocated service entities but eventually got a pretty neat development gig at Bank of America Merill Lynch post agile-transformation automating a security settlement process in Python and learning about clean code, test driven development, and specification by example and a smidge of Scala. Following that my next role was installing Formicary's bespoke application monitoring solution at Jefferies. Apart from that it was more application support type work for the most part.
+          - Jefferies - Calypso Application Support
+            - BAU support for Calypso (Java/Oracle) application
+            - Analysis and resolution of user issues
+            - Supported Bloomberg TOMS, ICELink and MarkitWire integrations
+            - Test planning and execution for version upgrades
+            - Application deployment (Jenkins/Ant)
+            - Deployment of Custom monitoring application (Java/Jetty/Cassandra)
+
+          - Bank of America Merill Lynch - Developer
+            - Automation of failed securities settlement process in Python
+            - Integration with legacy DB2 database
+            - Test Driven Development using cucumber for specification by example
+            - Continuous integration via Jenkins
+
+          - Calypso Monitoring Software - Developer
+            - Fullstack feature development for Java based application monitoring web-app
+            - Plotting timeseries data with flot
+            - Refactoring of CalMon's application model to support monitoring of Calypso Engines running within jBoss application server or in independent JVMs
+            - GUI development with extjs
+            - Implementation of jQuery plugin to extend graphing capability with Flot graphing library
+
+          - Portigon (WestLB) - Summit Application Support
+            - Analysis of risk data and shift and drift components of P&L for MRM
+            - Comparison of Vega calculations for swaption desk
+            - Analysis and rollout of swaption model change for MRM
+            - SunGard to Summit migration, development of money market trade upload utility
+            - Support for Summit 5.5 upgrade, fixes to Finance P&L reporting
+            - Management of Summit data interfaces between NY and London
+            - Coordination of intra-branch book transfer activities
+            - Development of utility for upload of MBS repayment factors
+
 
       - layout: left
         title: Formicary Ltd
@@ -110,9 +178,18 @@ content:
         sub_title: Senior Engineer  (London, UK)
         caption: September 2006 - February 2011
         description: |
-          Joining Formicary was a pivotal moment in my working life, it was a small but rapidly growing software consultancy that a college buddy was working for, serving the fancy-pants financial scene in the City of London, quite a contrast to the slightly dilapidated government laboratory I had come from. I was hired on the basis that I knew some C++ (I had done one module in college) despite my resounding failure to demonstrate this in the interview I was able to talk about figuring out how to play mp3s in Linux.
+          - WestLB - Summit Application Support
+            - Developed a real-time feed of funding data in C++ using Summit Straight Through Processing
+            - Maintenance of Java based market data interface to Thomson Reuters
+            - Implemented changes to market data audit history archiving rules
+            - Summit data model and GUI modifications
+            - Accounting schema customisation
+            - Custom report development
 
-          I learned a lot here, starting with an appreciation of how much I didn't know. Through the generosity and patience of my excellent collegues I picked up some useful skills in application development and a passing familiarity with various financial instruments. Initially I worked mainly in C++ on Solaris but later picked up some Java too. I started off working on a data migration for Commerzbank in Frankfurt (weekly flights!) and laterly a mix of development and support at the somewhat infamous WestLB (ask an older German).
+          - Commerzbank - Front Arena to Summit Migration
+            - Developed utilities for static data and bond migration in C++ using STK (Summit ToolKit)
+            - Execution and analysis of present value and cashflow reconciliations
+
 
       - layout: left
         title: The National Physical Laboratory
@@ -121,24 +198,10 @@ content:
         sub_title: Research Scientist (Teddington, UK)
         caption: September 2005 - August 2006
         description: |
-          My first proper job after graduation from university. I actually applied to a technician's job but no soldering was pretty hopeless so they put me to work in the laboratory instead. I was split between the Photonics and Ultrafast and Dielectric measurements groups. The main project I worked on was laser beam quality measurement (M2 measurement) which we automated using Labview. I dabbbled a bit in Mathematica, HTBasic and oscilloscope calibration but ultimately decided to move on.
+          - M2 laser profile measurement via diffraction grating
+          - Experiment automation with Labview
+          - Oscilloscope callibrations
 
-      - layout: left
-        title: Royal Mail
-        link: royalmail.com
-        link_text: royalmail.com
-        sub_title: Postman (London, UK)
-        caption: June 2005 - August 2005
-        description: |
-          After returning from South East Asia where I had been staying with my now wife I did a bit of bar work and got a job with Royal Mail as I had worked for them before as a temp in the seaside retreat of Herne Bay. Being a postie in London was pretty neat though, even if I'm not an early bird by nature, as my route in SW11 had me delivering to Gillian Andserson, Robbie Williams, Sebastian Faulks, and then girlfriend of Jude Law the actress Sienna Miller. I once had a parcel for Gillian Anderson although sadly she was not at home.
-
-      - layout: left
-        title: Errata
-        caption: 1995 - 2004
-        description: |
-          An assortment of part-time and temporary jobs while at school and university, the very first being a delivery boy for United Pharmacy in Canterbury, fond memories of that one. I worked retail in Next (so boring and I expect it showed), and pulled pints at Simple Simon's in Canterbury and the now demolished Falmouth Keogh Halls student union bar. The local recruitment agency provided various interesting assignemts such as assembling parking meters, spot welding filing cabinets, moving things about in warehouses, and chilselling hardened glue from inside a machine that made the slightly fuzzy insides of cars and a first stint delivering the mail and DVDs for mail order DVD company Netflix!
-
-          One summer I landed the lead role in a music video for a song that was tipped to be a smash hit primarily because of my 70s-esque haircut (technically more of a hair-grow than a hair-cut). Sadly it barely made any impact on the top 40 but you can still see it on [Youtube](https://www.youtube.com/watch?v=8gtND3Y69z4&pp=ygUVbWlzdHkgYmx1IG1pbGxpb25zb25z)!
 
 #      - layout: left
 #        title: The Boring Company
